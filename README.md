@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=520&height=40&lines=Gal+Elharar;Go+%40+Flight+Control+%2F+Red+Hat;edge+fleets+%2B+enrollment+hooks" alt="typing header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=520&height=40&lines=Gal+Elharar;Go+%40+Flight+Control+%2F+Red+Hat;edge+device+%26+fleet+management" alt="typing header" />
   </a>
 </p>
 
 <p align="center">
   Software engineer at Red Hat.<br/>
-  I spend most days in <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> (Go): device enrollment, fleet reconcile, package-mode OS updates, CI.
+  I work on <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> in Go: edge fleets, device lifecycle, APIs, and CI.
 </p>
 
 <p align="center">
@@ -34,10 +34,9 @@
 
 ### Stats
 
-<!-- Official GH card + custom langs so Go (flightctl) actually shows. GitHub's top-langs API skips forks/org repos. -->
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/galel12/galel12/master/assets/languages.png" alt="Languages I work in" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galel12&layout=compact&langs_count=6&exclude_repo=Equity-in-post-HCT-Survival-Predictions,galel12&title_color=00ADD8&text_color=e4e4e7&bg_color=18181b&hide_border=true" alt="Top languages" />
 </p>
 
 ### Stuff I touch a lot
