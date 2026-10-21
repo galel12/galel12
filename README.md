@@ -1,36 +1,62 @@
-I write Go for [flightctl](https://github.com/flightctl/flightctl) at Red Hat — edge device / fleet management.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00ADD8&center=true&vCenter=true&width=520&height=40&lines=Gal+Elharar;Go+%40+Flight+Control+%2F+Red+Hat;edge+fleets+%2B+enrollment+hooks" alt="typing header" />
+  </a>
+</p>
 
-Most of my recent work is around **enrollment hooks**: policy CRD, pre/post-enrollment agent flow, status + events, fleet gating, and the notify path when hooks finish. Before that I spent a stretch on package-mode OS updates (`catalogItemRef`, e2e/CI, docs).
+<p align="center">
+  Software engineer at Red Hat.<br/>
+  I spend most days in <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> (Go): device enrollment, fleet reconcile, package-mode OS updates, CI.
+</p>
 
-I also poke at the surrounding repos when something needs doing:
+<p align="center">
+  <b>Maintainer at</b><br/>
+  <a href="https://github.com/flightctl">
+    <img src="https://avatars.githubusercontent.com/u/146962510?s=200&v=4" height="88" alt="flightctl" />
+  </a>
+</p>
 
-- [flightctl/ai-workflows](https://github.com/flightctl/ai-workflows) — shared agent/workflow setup for the team
-- [flightctl/flightctl-rpm](https://github.com/flightctl/flightctl-rpm) — packaging
-- [fedora-iot/greenboot-rs](https://github.com/fedora-iot/greenboot-rs) — greenboot rewrite
+### Stack
 
-Outside of work I'm a Math & CS student. Older course / side stuff lives in the repos below if you dig around.
-
-### Languages
-
-<a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" /></a>
-&nbsp;
-<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /></a>
-&nbsp;
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-&nbsp;
-<a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="Rust" /></a>
-&nbsp;
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="Shell" /></a>
-&nbsp;
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40" height="40" alt="Kubernetes" /></a>
-&nbsp;
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+<p>
+  <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" /></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /></a>
+  &nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>
+  &nbsp;
+  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" /></a>
+  &nbsp;
+  <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" /></a>
+  &nbsp;
+  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /></a>
+</p>
 
 ### Stats
 
-<a href="https://github.com/galel12">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&title_color=15803d&text_color=e4e4e7&icon_color=15803d&bg_color=18181b&hide_border=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/galel12">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galel12&layout=compact&langs_count=6&exclude_repo=Equity-in-post-HCT-Survival-Predictions,galel12&title_color=15803d&text_color=e4e4e7&bg_color=18181b&hide_border=true" alt="Top languages" />
-</a>
+<!-- Official GH card + custom langs so Go (flightctl) actually shows. GitHub's top-langs API skips forks/org repos. -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="./assets/languages.svg" alt="Languages I work in" />
+</p>
+
+### Stuff I touch a lot
+
+<p>
+  <a href="https://github.com/flightctl/flightctl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=flightctl&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="flightctl" />
+  </a>
+  <a href="https://github.com/flightctl/jira-ai-issue-solver">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=jira-ai-issue-solver&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="jira-ai-issue-solver" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/fedora-iot/greenboot-rs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=greenboot-rs&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="greenboot-rs" />
+  </a>
+  <a href="https://github.com/flightctl/flightctl-ui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=flightctl-ui&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="flightctl-ui" />
+  </a>
+</p>
+
+Math & CS on the side. Also keep [ai-workflows](https://github.com/flightctl/ai-workflows) and [flightctl-rpm](https://github.com/flightctl/flightctl-rpm) moving when packaging or agent tooling needs it.
