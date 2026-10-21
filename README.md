@@ -12,6 +12,10 @@
 
 <p align="center">
   <b>Maintainer at</b><br/>
+  <a href="https://github.com/RedHatOfficial">
+    <img src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4" height="88" alt="Red Hat" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/flightctl">
     <img src="https://avatars.githubusercontent.com/u/146962510?s=200&v=4" height="88" alt="flightctl" />
   </a>
