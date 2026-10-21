@@ -6,7 +6,8 @@
 
 <p align="center">
   Software engineer at Red Hat.<br/>
-  I work on <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> in Go: edge fleets, device lifecycle, APIs, and CI.
+  Maintainer of <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> (Go).<br/>
+  Declare the OS, host config, and apps you want on a device or a whole fleet; Flight Control rolls that target out to the edge.
 </p>
 
 <p align="center">
