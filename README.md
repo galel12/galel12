@@ -37,7 +37,7 @@
 <!-- Official GH card + custom langs so Go (flightctl) actually shows. GitHub's top-langs API skips forks/org repos. -->
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="./assets/languages.svg" alt="Languages I work in" />
+  <img height="165" src="https://raw.githubusercontent.com/galel12/galel12/master/assets/languages.png" alt="Languages I work in" />
 </p>
 
 ### Stuff I touch a lot
