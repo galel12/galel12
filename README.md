@@ -1,13 +1,11 @@
-### Gal Elharar
+I write Go for [flightctl](https://github.com/flightctl/flightctl) at Red Hat — edge device / fleet management.
 
-Software engineer at Red Hat, working on [Flight Control](https://github.com/flightctl/flightctl) — mostly **Go**, plus the agent/edge bits around it.
+Most of my recent work is around **enrollment hooks**: policy CRD, pre/post-enrollment agent flow, status + events, fleet gating, and the notify path when hooks finish. Before that I spent a stretch on package-mode OS updates (`catalogItemRef`, e2e/CI, docs).
 
-Also studying Mathematics and Computer Science.
+I also poke at the surrounding repos when something needs doing:
 
-**Recently:** enrollment hooks, package-mode / OS catalog work, and AI-assisted workflows for the Flight Control team.
+- [flightctl/ai-workflows](https://github.com/flightctl/ai-workflows) — shared agent/workflow setup for the team
+- [flightctl/flightctl-rpm](https://github.com/flightctl/flightctl-rpm) — packaging
+- [fedora-iot/greenboot-rs](https://github.com/fedora-iot/greenboot-rs) — greenboot rewrite
 
-```text
-Go · Linux edge · fleets · CI · AI workflows
-```
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&title_color=15803d&text_color=e4e4e7&icon_color=15803d&bg_color=18181b&hide_border=true)](https://github.com/galel12)
+Outside of work I'm a Math & CS student. Older course / side stuff lives in the repos below if you dig around.
