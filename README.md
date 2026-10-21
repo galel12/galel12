@@ -40,8 +40,7 @@
 ### Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galel12&layout=compact&langs_count=6&exclude_repo=Equity-in-post-HCT-Survival-Predictions,galel12&title_color=00ADD8&text_color=e4e4e7&bg_color=18181b&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
-Math & CS on the side.
+Studying Mathematics and Computer Science. That background shows up a lot when the edge problems get weird.
