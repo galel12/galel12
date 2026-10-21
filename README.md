@@ -24,17 +24,19 @@
 ### Stack
 
 <p>
-  <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="42" height="42" alt="Go" /></a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" /></a>
-  &nbsp;
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" /></a>
-  &nbsp;
-  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="42" height="42" alt="Rust" /></a>
-  &nbsp;
-  <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" /></a>
-  &nbsp;
-  <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" /></a>
+  <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="56" height="56" alt="Go" /></a>
+  &nbsp;&nbsp;
+  <a href="https://fedoraproject.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" width="56" height="56" alt="Fedora" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="56" height="56" alt="Python" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.rust-lang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="56" height="56" alt="Rust" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="56" height="56" alt="TypeScript" /></a>
+  &nbsp;&nbsp;
+  <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="56" height="56" alt="Kubernetes" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="56" height="56" alt="Bash" /></a>
 </p>
 
 ### Stats
