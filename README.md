@@ -40,23 +40,4 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galel12&layout=compact&langs_count=6&exclude_repo=Equity-in-post-HCT-Survival-Predictions,galel12&title_color=00ADD8&text_color=e4e4e7&bg_color=18181b&hide_border=true" alt="Top languages" />
 </p>
 
-### Stuff I touch a lot
-
-<p>
-  <a href="https://github.com/flightctl/flightctl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=flightctl&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="flightctl" />
-  </a>
-  <a href="https://github.com/flightctl/jira-ai-issue-solver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=jira-ai-issue-solver&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="jira-ai-issue-solver" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/fedora-iot/greenboot-rs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=greenboot-rs&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="greenboot-rs" />
-  </a>
-  <a href="https://github.com/flightctl/flightctl-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=galel12&repo=flightctl-ui&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true" alt="flightctl-ui" />
-  </a>
-</p>
-
-Math & CS on the side. Also keep [ai-workflows](https://github.com/flightctl/ai-workflows) and [flightctl-rpm](https://github.com/flightctl/flightctl-rpm) moving when packaging or agent tooling needs it.
+Math & CS on the side.
