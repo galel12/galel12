@@ -10,16 +10,19 @@
   Declare the OS, host config, and apps you want on a device or a whole fleet; Flight Control rolls that target out to the edge.
 </p>
 
-<p align="center">
-  <b>Part of</b><br/>
-  <a href="https://github.com/rh-ecosystem-edge">
-    <img src="https://avatars.githubusercontent.com/u/93991622?s=200&v=4" height="88" alt="Red Hat Ecosystem Edge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/flightctl">
-    <img src="https://avatars.githubusercontent.com/u/146962510?s=200&v=4" height="88" alt="flightctl" />
-  </a>
-</p>
+<p align="center"><b>Part of</b></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/rh-ecosystem-edge"><img src="https://avatars.githubusercontent.com/u/93991622?s=200&v=4" height="88" alt="Red Hat Ecosystem Edge" /></a>
+    </td>
+    <td width="16"></td>
+    <td>
+      <a href="https://github.com/flightctl"><img src="https://avatars.githubusercontent.com/u/146962510?s=200&v=4" height="88" alt="flightctl" /></a>
+    </td>
+  </tr>
+</table>
 
 ### Stack
 
