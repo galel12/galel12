@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  Software engineer at Red Hat.<br/>
+  Software engineer at Red Hat, Ecosystem Edge.<br/>
   Maintainer of <a href="https://github.com/flightctl/flightctl"><b>flightctl</b></a> (Go).<br/>
   Declare the OS, host config, and apps you want on a device or a whole fleet; Flight Control rolls that target out to the edge.
 </p>
 
 <p align="center">
-  <b>Maintainer at</b><br/>
-  <a href="https://github.com/RedHatOfficial">
-    <img src="https://avatars.githubusercontent.com/u/33972111?s=200&v=4" height="88" alt="Red Hat" />
+  <b>Part of</b><br/>
+  <a href="https://github.com/rh-ecosystem-edge">
+    <img src="https://avatars.githubusercontent.com/u/93991622?s=200&v=4" height="88" alt="Red Hat Ecosystem Edge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/flightctl">
