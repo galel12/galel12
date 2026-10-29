@@ -41,7 +41,7 @@
 ### Stats
 
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=galel12&show_icons=true&count_private=true&include_all_commits=true&title_color=00ADD8&text_color=e4e4e7&icon_color=00ADD8&bg_color=18181b&hide_border=true&rank_icon=github" alt="GitHub stats" />
 </p>
 
 Studying Mathematics and Computer Science. That background shows up a lot when the edge problems get weird.
