@@ -35,6 +35,8 @@
   &nbsp;&nbsp;
   <a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="56" height="56" alt="Kubernetes" /></a>
   &nbsp;&nbsp;
+  <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="56" height="56" alt="OpenShift" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="56" height="56" alt="Bash" /></a>
 </p>
 
